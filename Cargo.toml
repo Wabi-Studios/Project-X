@@ -1,0 +1,15 @@
+[package]
+name = "kraken"
+version = "0.1.0"
+authors = ["Furby <tyler@tylerfurby.com>", "Wabi Animation <devs@wabi.foundation>"]
+edition = "2021"
+license = "GPLv3"
+license-file = "LICENSE"
+keywords = ["animation", "graphics", "film"]
+description = "Good Design Takes You Far."
+homepage = "https://wabi.foundation/"
+documentation = "https://docs.wabi.foundation/"
+repository = "https://github.com/Wabi-Studios/Project-X/"
+readme = "README.md"
+
+[dependencies]
