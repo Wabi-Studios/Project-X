@@ -1,5 +1,5 @@
 [package]
-name = "kraken"
+name = "kraken-animation"
 version = "0.1.0"
 authors = ["Furby <tyler@tylerfurby.com>", "Wabi Animation <devs@wabi.foundation>"]
 edition = "2021"
