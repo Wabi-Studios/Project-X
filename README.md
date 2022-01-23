@@ -11,7 +11,7 @@
 
 # @Project.x
 
-[![Documentation Status][read-the-docs-badge]][read-the-docs]
+[![Crates.io Version][crates-io-badge]][crates-io]
 [![Documentation Status][read-the-docs-badge]][read-the-docs]
 [![Documentation Status][read-the-docs-badge]][read-the-docs]
 
@@ -28,5 +28,8 @@ well that doesn't sound that bad.
 
 </div>
 
+<!-- ![Crates.io (version)]() -->
+[crates-io]: https://crates.io/crates/kraken-animation
+[crates-io-badge]: https://img.shields.io/crates/v/kraken-animation
 [read-the-docs]: https://docs.wabi.foundation/en/latest/?badge=latest
 [read-the-docs-badge]: https://readthedocs.org/projects/wabi-animation-kraken/badge/?version=latest
